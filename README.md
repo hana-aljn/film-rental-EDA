@@ -1,7 +1,9 @@
-# Film Rental EDA - Internship Task
+# Film Rental EDA
 
 **🎯 Project Purpose:**
+
 This repository contains a solution I developed as part of a data science internship application task.  
+
 The main goal of the task was to analyze a film rental dataset to gain insights into customer behavior and rental trends. Specifically, the project focuses on:
 
 - Understanding customer rental behavior
@@ -14,6 +16,7 @@ The main goal of the task was to analyze a film rental dataset to gain insights 
 **📦 Libraries & Tools Used:**
 
 The following Python packages are used in this project:
+
 - *NumPy* → Numerical computations
 - *Pandas* → Data manipulation and tabular structures
 - *Matplotlib* → Data visualization
