@@ -32,6 +32,9 @@ The following Python packages are used in this project:
 
 The notebook demonstrates data handling by connecting to a MySQL database using:
 *mysql.connector*
+
 This allows:
+
 1- Querying structured data
+
 2- Loading SQL data into pandas DataFrames
